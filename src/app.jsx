@@ -27,7 +27,7 @@ export default function App() {
         loadFacebookPixel();
     }, [location]);
 
-    const pixelId = '780236750696814'; // Установите здесь ваш ID пикселя Facebook
+    const pixelId = '1564144254350385'; // Установите здесь ваш ID пикселя Facebook
 
     return (
         <Routes>
